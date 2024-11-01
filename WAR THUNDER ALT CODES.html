@@ -1,0 +1,15 @@
+1. run chcp in cmd.exe
+result: Active code page: 936
+
+2. go to https://fontdrop.info/
+upload symbols_skyquake.ttf
+find the symbol you want(crash sign: unicode 25A0)
+
+3. go to https://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP936.TXT
+search 25a0, you get 0xA1F6
+
+4. open calculator, choose programmer
+select HEX, paste a1f6
+boom, you get 41462 in DEC
+
+5. go game, hold ALT on keyboard, press 41462 on NUMPAD, release ALT
