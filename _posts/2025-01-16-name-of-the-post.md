@@ -26,3 +26,5 @@ I hope you like it!
     </li>
   {% endfor %}
 </ul>
+
+中文测试
