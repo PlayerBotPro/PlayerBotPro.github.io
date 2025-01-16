@@ -17,12 +17,4 @@ maybe the internal link is wrong?
 
 I hope you like it!
 
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+中文测试
