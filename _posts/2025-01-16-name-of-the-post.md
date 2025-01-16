@@ -8,3 +8,5 @@ categories: category1 category2
 2nd page. 
 
 maybe the internal link is wrong?
+
+[An Internal Link](/URL-PATH)
