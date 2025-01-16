@@ -7,4 +7,4 @@ categories: category1 category2
 
 2nd page. 
 
-[An Internal Link](/URL-PATH)
+maybe the internal link is wrong?
