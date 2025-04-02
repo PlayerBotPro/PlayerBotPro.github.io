@@ -33,3 +33,8 @@
   ### Enable Fracture/Tourniquet/Splint Indicators
 
   ## GUI
+  ### Enable Medical Actions
+  ### Enable Medical Self Actions
+  ### Enable Medical Menu
+  ### Reopen Medical Menu
+  ### Maximum Distance
