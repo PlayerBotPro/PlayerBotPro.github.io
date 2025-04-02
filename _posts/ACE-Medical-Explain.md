@@ -29,3 +29,7 @@
 # ACE Medical Interface
   ## Feedback
   ### Pain Effect Type
+  ### Low Blood Volume Effect Type
+  ### Enable Fracture/Tourniquet/Splint Indicators
+
+  ## GUI
