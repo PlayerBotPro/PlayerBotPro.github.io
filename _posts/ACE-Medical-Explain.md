@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/0f4daec8-6d88-4548-90a1-2d706f1fd01a)
-![image](https://github.com/user-attachments/assets/1360b57a-6925-4e44-a64d-1922b6f2c5e0)
-
 # ACE Medical
   ## AI
   ### Medic AI
@@ -62,6 +59,24 @@
 # ACE Medical Interface
   ## Feedback
   ### Pain Effect Type
+  ```sqf
+  [player, 1] call ace_medical_fnc_adjustPainLevel
+  ```
+  <details>
+    <summary>White Flashing</summary>
+    <img src="https://github.com/user-attachments/assets/5fb59c09-570c-4708-bae8-7942f1a57467">
+  </details>
+  
+  <details>
+    <summary>Chromatic Aberration</summary>
+    <img src="https://github.com/user-attachments/assets/2ffa7916-7da1-4050-8370-8ab591777aee">
+  </details>
+
+  <details>
+    <summary>Chromatic Aberration</summary>
+    <img src="https://github.com/user-attachments/assets/009adf25-749d-44bb-b2b4-93e77421afd5">
+  </details>
+  
   ### Low Blood Volume Effect Type
   ### Enable Fracture/Tourniquet/Splint Indicators
 
