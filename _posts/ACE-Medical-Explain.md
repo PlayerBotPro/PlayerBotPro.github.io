@@ -68,7 +68,7 @@
   </details>
   
   <details>
-    <summary>Chromatic Aberration</summary>
+    <summary>Pusling Blur</summary>
     <img src="https://github.com/user-attachments/assets/2ffa7916-7da1-4050-8370-8ab591777aee">
   </details>
 
@@ -76,7 +76,12 @@
     <summary>Chromatic Aberration</summary>
     <img src="https://github.com/user-attachments/assets/009adf25-749d-44bb-b2b4-93e77421afd5">
   </details>
-  
+
+  <details>
+    <summary>Only high pain effect</summary>
+    same as Pusling Blur?
+  </details>
+
   ### Low Blood Volume Effect Type
   ### Enable Fracture/Tourniquet/Splint Indicators
 
