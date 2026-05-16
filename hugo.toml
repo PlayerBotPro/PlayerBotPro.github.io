@@ -1,0 +1,17 @@
+baseURL = 'https://PlayerBotPro.github.io/'
+languageCode = 'en-us' # Change to 'zh-cn' if you write in Chinese
+title = 'My Personal Blog'
+theme = 'hugo-book'
+
+# Disables tags and categories to keep things purely folder-based
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  # Allows the theme to match the user's system (light or dark mode)
+  BookTheme = 'auto' 
+  
+  # Tells Hugo where to look for your Markdown files
+  BookSection = 'docs' 
+  
+  # Removes the "Last Modified" text from the bottom of pages
+  BookHidden = true
