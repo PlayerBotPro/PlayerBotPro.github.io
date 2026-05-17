@@ -65,13 +65,13 @@ menu:
       pageRef: "/showcases/"
       weight: 3
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book/"
+      url: "https://github.com/PlayerBotPro/PlayerBotPro.github.io"
       weight: 4
 
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book/"
+      url: "https://github.com/PlayerBotPro/PlayerBotPro.github.io"
       weight: 10
     - name: "Hugo Themes"
       url: "https://themes.gohugo.io/themes/hugo-book/"
@@ -102,7 +102,7 @@ params:
 
   # Here for backward compatibility, not required.
   # It's here as an example how to use it with BookLastChangeLink or BookEditLink
-  BookRepo: "https://github.com/alex-shpak/hugo-book/"
+  BookRepo: "https://github.com/PlayerBotPro/PlayerBotPro.github.io"
 
   # (Optional, default none) Set template for commit link for the page. Requires enableGitInfo.
   # When set enabled 'Last Modified' and a link to the commit in the footer of the page.

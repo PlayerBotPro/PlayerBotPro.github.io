@@ -69,13 +69,13 @@ enableGitInfo = true
 
 [[menu.home]]
   name = 'Github'
-  url = 'https://github.com/alex-shpak/hugo-book/'
+  url = 'https://github.com/PlayerBotPro/PlayerBotPro.github.io'
   weight = 4
 
 # [[menu.before]]
 [[menu.after]]
   name = 'Github'
-  url = 'https://github.com/alex-shpak/hugo-book/'
+  url = 'https://github.com/PlayerBotPro/PlayerBotPro.github.io'
   weight = 10
 
 [params]
@@ -103,7 +103,7 @@ enableGitInfo = true
 
   # Here for backward compatibility, not required.
   # It's here as an example how to use it with BookLastChangeLink or BookEditLink
-  BookRepo = 'https://github.com/alex-shpak/hugo-book/'
+  BookRepo = 'https://github.com/PlayerBotPro/PlayerBotPro.github.io'
 
   # (Optional, default none) Set template for commit link for the page. Requires enableGitInfo.
   # When set enabled 'Last Modified' and a link to the commit in the footer of the page.
