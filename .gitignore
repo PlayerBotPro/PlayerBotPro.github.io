@@ -1,0 +1,8 @@
+# Hugo generated folders
+public/
+resources/
+.hugo_build.lock
+
+# OS generated files (Optional but good practice)
+.DS_Store
+Thumbs.db
