@@ -1,17 +1,23 @@
 baseURL = 'https://PlayerBotPro.github.io/'
-languageCode = 'en-us' # Change to 'zh-cn' if you write in Chinese
-title = 'My Personal Blog'
+title = 'PlayerBotPro'
 theme = 'hugo-book'
-
-# Disables tags and categories to keep things purely folder-based
 disableKinds = ["taxonomy", "term"]
+defaultContentLanguage = 'en' # This makes English the default when people visit
 
 [params]
-  # Allows the theme to match the user's system (light or dark mode)
-  BookTheme = 'auto' 
-  
-  # Tells Hugo where to look for your Markdown files
-  BookSection = 'docs' 
-  
-  # Removes the "Last Modified" text from the bottom of pages
+  BookTheme = 'auto'
+  BookSection = 'docs'
   BookHidden = true
+
+# --- MULTI-LANGUAGE SETUP ---
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'exampleSite/content'    # <-- Updated path
+    weight = 1
+
+  [languages.zh]
+    languageName = '中文'
+    contentDir = 'exampleSite/content.zh' # <-- Updated path
+    weight = 2
